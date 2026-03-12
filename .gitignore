@@ -1,0 +1,11 @@
+.env
+.env.*
+backend/.env
+backend/.env.*
+node_modules/
+dist/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/temp_uploads/
+backend/ephemeral_care.db
+backend/ephemeral_care.db-*
